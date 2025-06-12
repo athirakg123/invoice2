@@ -57,7 +57,7 @@ body {
 .company-info h1 {
     color: #006600;
     margin: 0 0 5px 0;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .company-info p {
@@ -88,7 +88,7 @@ body {
 .invoice-title {
     text-align: center;
     margin: 15px 0;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     color: #006600;
     text-transform: uppercase;
@@ -218,24 +218,7 @@ th {
     overflow: hidden;
 }
 
-.advertisement h3 {
-    color: #1d701b;
-    margin: 0 0 10px 0;
-    font-size: 14px;
-}
 
-.advertisement .btn {
-    background-color: #04751e;
-    color: white;
-    padding: 8px 15px;
-    text-decoration: none;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: bold;
-    border: none;
-    cursor: pointer;
-    display: inline-block;
-}
 
 /* Footer */
 .footer {
